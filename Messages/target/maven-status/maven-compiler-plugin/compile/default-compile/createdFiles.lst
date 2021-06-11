@@ -1,0 +1,12 @@
+org\emp\gl\messages\AES.class
+org\emp\gl\messages\HashSimple.class
+org\emp\gl\messages\IMessage.class
+org\emp\gl\messages\Md5.class
+org\emp\gl\messages\RemoveSpaces.class
+org\emp\gl\messages\RemovePonctuation.class
+org\emp\gl\messages\UpperCase.class
+org\emp\gl\messages\SHA.class
+org\emp\gl\messages\MessageDecorator.class
+org\emp\gl\messages\AnonymousMessage.class
+org\emp\gl\messages\BaseMessageAdapter.class
+org\emp\gl\messages\Shift.class
